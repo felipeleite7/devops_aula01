@@ -1,1 +1,4 @@
-# devops_aula01
+Primeira aula de DevOps!
+
+Att,
+Felipe Leite

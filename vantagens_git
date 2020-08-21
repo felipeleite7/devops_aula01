@@ -1,1 +1,6 @@
+O Git facilita a vida de programadores a fim de evitar duplicidade e erros, nos desenvolvimentos e edições de códigos invés de ter centena de arquivos renomeados.
 
+Git possui versionamento descentralizado do servidor, onde na fase commit seu armazenamento é local e na fase push as informações/alterações são enviadas.
+
+O fluxo de trabalho, performace e segurança é melhor. Pois o Git elimina conflitos de merge quando duas ou mais pessoas estão trabalhando no meu arquivo.
+Isso acontece porque o Git compara os arquivos alterados com o commit anterior, e quando ocorre o merge, ou seja, a junção. É possível fazer a verificação e alteração de acordo com a diferença dos commits.
